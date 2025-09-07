@@ -16,7 +16,7 @@ It also fixes a bug ([#432](https://github.com/s0md3v/XSStrike/issues/432)) and 
 
 ### Install
 ```
-git clone https://github.com/s0md3v/XSStrike
+git clone https://github.com/patricklangx/XSStrikeBurped
 python -m venv XSStrikeBurped
 cd XSStrikeBurped
 source bin/activate
